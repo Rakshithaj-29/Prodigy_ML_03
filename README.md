@@ -11,7 +11,7 @@ This project is a simple image classifier built with Tkinter GUI that predicts w
 - Image Handling: Pillow (PIL)  
 ## 📦 Dataset  used
 ###  https://www.kaggle.com/c/dogs-vs-cats/data   
-The project uses thefeatures of dataset from Kaggle:  
+The project uses the features of dataset from Kaggle:  
 
 25,000 labeled images (12,500 cats, 12,500 dogs)  
 Used only 2000 images per class for training due to local compute limitations  
