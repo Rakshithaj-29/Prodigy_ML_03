@@ -10,7 +10,7 @@ This project is a simple image classifier built with Tkinter GUI that predicts w
 - Feature Extraction: HOG (from scikit-image)  
 - Image Handling: Pillow (PIL)  
 ## 📦 Dataset  
-### 👉 Dogs vs. Cats - Kaggle Dataset  
+### 👉 Dogs vs. Cats - Kaggle Dataset https://www.kaggle.com/c/dogs-vs-cats/data 
 The project uses the Dogs vs Cats dataset from Kaggle:  
 
 25,000 labeled images (12,500 cats, 12,500 dogs)  
@@ -29,4 +29,4 @@ Used Tkinter to build a graphical user interface allowing users to:
 Upload an image  
 Predict whether the image is of a cat or a dog 
 
-Special thanks to Prodigy Info Tech for the internship opportunity  
+ ### Special thanks to Prodigy Info Tech for the internship opportunity  
